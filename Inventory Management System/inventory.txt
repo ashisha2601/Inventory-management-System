@@ -1,0 +1,5 @@
+1,chocolate,15,96
+2,charcoal,50,193
+3,bottle,80,119
+4,notebook,20,330
+5,pencil,5,195
